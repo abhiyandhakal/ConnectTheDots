@@ -1,6 +1,6 @@
 # ConnectTheDots
 
-A dotfile and desktop customization showcase by KUOSC
+A repository to store and showcase dotfiles and desktop customizations from the KUOSC.
 
 ### About This Project
 
